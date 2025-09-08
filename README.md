@@ -6,7 +6,7 @@
 2、输入：逐字逐句全文翻译：https://arxiv.org/pdf/xxxx.xx  
 3、复制为Markdown格式，通过 vscode markdown 格式进行编辑  
 4、输入url链接、作者引用  
-4、使用 markdown all in one 添加TOC目录：Ctrl+Shift+P, Create Table of Contents  
+4、使用 markdown all in one 和 markdownlint 添加TOC目录：Ctrl+Shift+P, Create Table of Contents  
 5、使用转换格式工具：https://markdown.com.cn/editor/  
 6、上传到知乎  
 
