@@ -11,6 +11,9 @@
 7、使用 github 中图片的url替换，使用转换格式工具：https://markdown.com.cn/editor/ 或 https://md.openwrite.cn/   
 8、上传到知乎  
 
+1、下载和安装MinerU，下载PDF论文，并将论文上传MinerU解析，获得Markdown格式文件
+2、上传Markdown文件到元宝，元宝设为DeepSeek、深度思考、不联网搜索，输入：逐字逐句全文翻译第1、2章节，并整理格式
+
 ## 工具
 
 1）image 2 base64: & 'C:\Program Files\Git\usr\bin\base64.exe' -w 0 .\2509-LiquidGEMM\image.png > .\2509-LiquidGEMM\image.txt  
